@@ -1,5 +1,5 @@
 # interctiveticket
-Interactive Show Ticket
+Interactive Show Ticket - HTML, CSS , JS
 
 
 ![Screenshot 1446-04-04 at 20 36 29](https://github.com/user-attachments/assets/455159b1-1434-435b-9027-938ab6227e50)
